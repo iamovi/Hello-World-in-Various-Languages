@@ -1,4 +1,4 @@
-![project-preview-image](https://i.imgur.com/DIFLqtB.gifv)
+![project-preview-image](https://i.imgur.com/DIFLqtB.gif)
 
 ## $ binary
 ```
