@@ -2,10 +2,10 @@
 
 
 ## Binary
-- developed in the mid-20th century.
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001
 ```
+- developed in the mid-20th century.
 
 ## > in Assembly
 ```
