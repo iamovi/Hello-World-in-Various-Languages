@@ -1,13 +1,12 @@
-# Hello World in Various Programming Languages
+### Hello World in Various Programming Languages.
 
-This repository contains "Hello, World!" examples in various programming languages.
 
-## in Binary
+## > in Binary
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001
 ```
 
-## in Assembly
+## > in Assembly
 ```
 section .data
     hello db 'Hello, World!',0
