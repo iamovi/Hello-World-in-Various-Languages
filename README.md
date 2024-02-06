@@ -170,6 +170,20 @@ int main() {
 ```
 - C++ was developed in the early 1980s by Bjarne Stroustrup at Bell Labs.
 
+## $ C#
+```
+using System;
+
+class HelloWorld
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello World!");
+    }
+}
+```
+- C# was first released in December 2000 as part of the .NET Framework by Microsoft.
+
 ## $ java
 ```
 public class HelloWorld {
