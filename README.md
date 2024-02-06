@@ -1,13 +1,13 @@
 ### Hello World in Various Programming Languages.
 
 
-## Binary
+## $ Binary
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001
 ```
 - developed in the mid-20th century.
 
-## > in Assembly
+## $ Assembly
 ```
 section .data
     hello db 'Hello, World!',0
@@ -28,3 +28,4 @@ _start:
     xor ebx, ebx        ; exit code 0
     int 0x80            ; call kernel
 ```
+- Assembly language, as a concept, emerged in the early days of computing, around the late 1940s and early 1950s, alongside the development of the first electronic computers.
