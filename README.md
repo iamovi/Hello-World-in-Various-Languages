@@ -44,3 +44,44 @@ end program HelloWorld
 ```
 - Lisp was first developed in 1958 by John McCarthy at the Massachusetts Institute of Technology (MIT).
 
+## $ COBOL
+```
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO-WORLD.
+       PROCEDURE DIVISION.
+           DISPLAY 'Hello, World!'.
+           STOP RUN.
+```
+- COBOL, which stands for Common Business-Oriented Language, was first developed in 1959 by a committee led by Grace Hopper.
+
+## $ ALGOL 60
+```
+BEGIN
+    OUTSTRING('Hello World!')
+END.
+```
+- ALGOL was first developed in the late 1950s by a committee of European and American computer scientists.
+
+## $ BASIC
+```
+10 PRINT "Hello World!"
+```
+- BASIC (Beginner's All-purpose Symbolic Instruction Code) was first developed in the mid-1960s by John G. Kemeny and Thomas E. Kurtz at Dartmouth College.
+
+## $ APL
+```
+'Hello World!'
+```
+- APL (A Programming Language) was developed in the late 1950s and early 1960s by Kenneth E. Iverson.
+
+## $ PL/I
+```
+HELLO: PROCEDURE OPTIONS(MAIN);
+    PUT LIST('Hello World!');
+END;
+```
+- PL/I (Programming Language One) was developed in the late 1960s by IBM.
+
+
+
+
