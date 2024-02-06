@@ -5,7 +5,7 @@
 ```
 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001
 ```
-- Developed in the mid-20th century.
+- Computer first language, developed in the mid-20th century.
 
 ## $ assembly
 ```
@@ -82,6 +82,12 @@ END;
 ```
 - PL/I (Programming Language One) was developed in the late 1960s by IBM.
 
-
-
+## $ simula
+```
+begin
+    OutText("Hello World!");
+    OutImage;
+end;
+```
+- Simula, developed in the 1960s by Ole-Johan Dahl and Kristen Nygaard at the Norwegian Computing Center, is considered one of the earliest object-oriented programming languages.
 
