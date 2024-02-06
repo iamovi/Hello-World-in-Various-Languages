@@ -91,3 +91,46 @@ end;
 ```
 - Simula, developed in the 1960s by Ole-Johan Dahl and Kristen Nygaard at the Norwegian Computing Center, is considered one of the earliest object-oriented programming languages.
 
+## $ pascal
+```
+program HelloWorld;
+begin
+    writeln('Hello World!');
+end.
+```
+- Pascal was developed in 1970 by Niklaus Wirth.
+
+## $ C
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+- C was developed in the early 1970s by Dennis Ritchie at Bell Labs.
+
+## $ smalltalk
+```
+Transcript show: 'Hello, World!'; cr.
+```
+- Smalltalk was developed in the early 1970s by Alan Kay, Dan Ingalls, Adele Goldberg, and others at Xerox PARC.
+
+## $ ada
+```
+with Ada.Text_IO;
+
+procedure Hello is
+begin
+    Ada.Text_IO.Put_Line("Hello, World!");
+end Hello;
+```
+- Ada was developed in the late 1970s and early 1980s by a team led by Jean Ichbiah at CII Honeywell Bull.
+
+## $ prolog
+```
+hello_world :-
+    write('Hello World!').
+```
+- Prolog was developed in the early 1970s by Alain Colmerauer and Philippe Roussel.
