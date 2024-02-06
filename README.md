@@ -1,4 +1,4 @@
-![project-preview-image](https://i.imgur.com/DIFLqtB.gif)
+![project-preview-image](https://ik.imagekit.io/iamovi/oviproject-preview.gif?updatedAt=1707222111761)
 
 ## $ binary
 ```
